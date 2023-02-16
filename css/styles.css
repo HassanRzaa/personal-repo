@@ -1,5 +1,5 @@
 body{
-    background-image: url(./pictuers/images.jpg);
+    background-image: url(../pictuers/images.jpg);
     background-size:cover ;
      color:#fff ;
      background-size:cover;
@@ -62,13 +62,13 @@ body{
 .image{
     height: 525px;
     width: 400px;
-    background-image: url(./pictuers/Screenshot_20230126-233756.jpg);
+    background-image: url(../pictuers/instagram-circle-icon-png-14.jpg);
     background-size: 400px;
     position: absolute;
     top: 135px;
     right: 20px;
 }
 .image:hover{
-    background-image: url(./pictuers/1_20230118_092531_0000.png);
+    background-image: url(../pictuers/1_20230118_092531_0000.png);
     background-size: cover;
 }
